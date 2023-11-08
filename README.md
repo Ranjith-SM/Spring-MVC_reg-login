@@ -40,11 +40,11 @@ Project: Maven based project.
 ---------------------------------
 ## Screenshoots
 Bean Creation :
-<img src="src/main/java/com/rev/Screenshots/beansSetUp.png">
+<img src="ss/bean.png">
 Login:
-<img src="src/main/java/com/rev/Screenshots/login.png">
+<img src="ss/login.png">
 Home:
-<img src="src/main/java/com/rev/Screenshots/home.png">
+<img src="ss/home.png">
 Register:
-<img src="src/main/java/com/rev/Screenshots/register.png">
+<img src="ss/reg.png">
  
